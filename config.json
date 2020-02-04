@@ -1,0 +1,21 @@
+{
+    "autosave": true,
+    "donate-level": 1,
+    "background": true,
+    "retries": 10000,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "coin": null,
+            "algo": "rx/0",
+            "url": "eu-de02.miningrigrentals.com:3333",
+            "user": "km7670672.145673",
+            "pass": "x",
+            "tls": false,
+            "keepalive": true,
+            "nicehash": false
+        }
+    ]
+}
